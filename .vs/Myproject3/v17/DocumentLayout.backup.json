@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HandeOZ.LAPTOP-UCJ03Q0U\\Myproject3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58ADD23D-D554-200F-5B0E-50BD91D6EF4D}|Assembly-CSharp.csproj|C:\\Users\\HandeOZ.LAPTOP-UCJ03Q0U\\Myproject3\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ADD23D-D554-200F-5B0E-50BD91D6EF4D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ADD23D-D554-200F-5B0E-50BD91D6EF4D}|Assembly-CSharp.csproj|c:\\users\\handeoz.laptop-ucj03q0u\\myproject3\\assets\\script\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ADD23D-D554-200F-5B0E-50BD91D6EF4D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ADD23D-D554-200F-5B0E-50BD91D6EF4D}|Assembly-CSharp.csproj|C:\\Users\\HandeOZ.LAPTOP-UCJ03Q0U\\Myproject3\\assets\\script\\player_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ADD23D-D554-200F-5B0E-50BD91D6EF4D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ADD23D-D554-200F-5B0E-50BD91D6EF4D}|Assembly-CSharp.csproj|C:\\Users\\HandeOZ.LAPTOP-UCJ03Q0U\\Myproject3\\assets\\script\\destroyme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ADD23D-D554-200F-5B0E-50BD91D6EF4D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\destroyme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "enemyManager.cs",
+              "DocumentMoniker": "C:\\Users\\HandeOZ.LAPTOP-UCJ03Q0U\\Myproject3\\Assets\\script\\enemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\enemyManager.cs",
+              "ToolTip": "C:\\Users\\HandeOZ.LAPTOP-UCJ03Q0U\\Myproject3\\Assets\\script\\enemyManager.cs",
+              "RelativeToolTip": "Assets\\script\\enemyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:27:17.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "player_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\HandeOZ.LAPTOP-UCJ03Q0U\\Myproject3\\Assets\\script\\player_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\player_Manager.cs",
+              "ToolTip": "C:\\Users\\HandeOZ.LAPTOP-UCJ03Q0U\\Myproject3\\Assets\\script\\player_Manager.cs",
+              "RelativeToolTip": "Assets\\script\\player_Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:18:09.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DestroyMe.cs",
+              "DocumentMoniker": "C:\\Users\\HandeOZ.LAPTOP-UCJ03Q0U\\Myproject3\\Assets\\script\\DestroyMe.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\DestroyMe.cs",
+              "ToolTip": "C:\\Users\\HandeOZ.LAPTOP-UCJ03Q0U\\Myproject3\\Assets\\script\\DestroyMe.cs",
+              "RelativeToolTip": "Assets\\script\\DestroyMe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:14:07.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "playermovement.cs",
+              "DocumentMoniker": "C:\\Users\\HandeOZ.LAPTOP-UCJ03Q0U\\Myproject3\\Assets\\script\\playermovement.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\playermovement.cs",
+              "ToolTip": "C:\\Users\\HandeOZ.LAPTOP-UCJ03Q0U\\Myproject3\\Assets\\script\\playermovement.cs",
+              "RelativeToolTip": "Assets\\script\\playermovement.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:13:36.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
